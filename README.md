@@ -10,4 +10,4 @@ bis 19/21.05.25:
 erste Ergebnisse vorstellen
 
 aktuell:
-- Jonas: Ergebnisse für Base Qwen3-4B - Modell erstellt, Benchmarks müssen noch errechnet werden\nFine-Tuning (LoRA) für Qwen3-4B
+- Jonas: Ergebnisse für Base Qwen3-4B - Modell erstellt, Benchmarks müssen noch errechnet werden<br>Fine-Tuning (LoRA) für Qwen3-4B
